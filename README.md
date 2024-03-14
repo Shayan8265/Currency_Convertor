@@ -26,3 +26,6 @@ The Currency Converter fetches real-time exchange rates from an external API. Pl
 - CSS3
 - JavaScript
 - [Currency Exchange Rate API](https://latest.currency-api.pages.dev/v1/currencies/eur.json)
+
+  ![Screenshot 2024-03-13 205319](https://github.com/Shayan8265/Currency_Convertor/assets/133166342/8e0513e9-fba1-4e85-b864-6b7ac02983e3)
+
